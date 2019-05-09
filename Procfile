@@ -1,2 +1,2 @@
 web: heroku-php-apache2
-worker: ./src/node index.js
+worker: bash ./run/lin-Start.sh
